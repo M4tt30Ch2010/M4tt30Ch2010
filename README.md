@@ -1,11 +1,11 @@
 👋 Hi, I’m @M4tt30Ch2010
 
-🇮🇹 I live in Italy  
-🔧 I’m passionate about **Arduino** and **automation**
-💻 Currently learning **C++**
-📚 I'm always looking to improve my skills and learn new technologies  
-💬 Feel free to reach out on **Telegram**: [@M4tt30Ch](https://t.me/M4tt30Ch)  
-💡 Fun fact: My main OS is **Fedora 43** with **GNOME 49**; I also use **Debian or Windows** for school tasks
+🇮🇹 I live in Italy
+🔧 I’m passionate about **Arduino**, **automation** and **other server stuff**.
+💻 Currently learning **proxmox** and **python**
+📚 I'm always looking to improve my skills and learn new technologies
+💬 Feel free to reach out on **Telegram**: [@M4tt30Ch](https://t.me/M4tt30Ch)
+💡 Fun fact: My main OS is **Fedora 43** with **KDE**; I also use **Debian or Windows** for school tasks
 
 <!--
 - 😄 Pronouns ...
